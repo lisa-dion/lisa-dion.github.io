@@ -23,10 +23,11 @@ You will participate in service that helps someone outside of CS learn about tec
 ## Grading
 
 Points system:
-54 pts - Discussion class attendance and reflection papers (n=9, 6 pts each)
-20 pts - Prepare and present a topic and lead class discussion in a team (n=1)
-20 pts - Service experience and essay (n=1)
-20 pts - Other assignments throughout the semester (n=4, 5 pts each)
+
+* 54 pts - Discussion class attendance and reflection papers (n=9, 6 pts each)
+* 20 pts - Prepare and present a topic and lead class discussion in a team (n=1)
+* 20 pts - Service experience and essay (n=1)
+* 20 pts - Other assignments throughout the semester (n=4, 5 pts each)
 
 This means there will be at least 114 points available throughout the semester. Your final grade will be based on a 100-point scale, so you will have some wiggle room built in.
 
