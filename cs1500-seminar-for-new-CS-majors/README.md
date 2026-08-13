@@ -28,10 +28,10 @@ This course uses a points-based grading system. Everyone starts at zero points a
 
 Points-based assignments include:
 
-1 pt for attending each class period
-2+ pts for each pre-class write-up
-3+ pts for each post-class quiz
-6+ pts for each homework assignment
+* 1 pt for attending each class period
+* 2+ pts for each pre-class write-up
+* 3+ pts for each post-class quiz
+* 6+ pts for each homework assignment
 
 **Attendance** will be taken at the beginning of each class period. You will not receive attendance credit if you miss a class or attend late, unless under extenuating circumstances that are emailed to the instructor before class.
 
