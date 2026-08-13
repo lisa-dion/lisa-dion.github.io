@@ -55,11 +55,11 @@ Points-based assignments include:
 | Oct 21 | Byung Lee | CS 3040 Database Systems<br>CS 3240 Algorithm Design & Analysis |
 | Oct 28 | Josh Bongard | CS 3060 Evolutionary Robotics |
 | Nov 4 | Yuanyuan Feng | CS 2880 Inclusive Computing<br>CS 3280 Human-Computer Interaction |
-| Nov 11 | Peter Dodds | CSYS 6701 Principles of Complex Systems 1<br>CS 6713 Principles of Complex Systems 2 |
-| Nov 18 | Jason Hibbeler | CS 3050 Software Engineering |
+| Nov 11 | Jason Hibbeler | CS 3050 Software Engineering |
+| Nov 18 | Juniper Lovato | CS Ethics |
 | Nov 25 | No class (Thanksgiving Break) |
-| Dec 2 | Juniper Lovato | CS Ethics |
-| Dec 9 | Nick Cheney | CS 6520 Evolutionary Computation |
+| Dec 2 | Nick Cheney | CS 6520 Evolutionary Computation |
+| Dec 9 | TBD |
 
 \* This is the only lecture excluded from pre-class and post-class assignments.
 
