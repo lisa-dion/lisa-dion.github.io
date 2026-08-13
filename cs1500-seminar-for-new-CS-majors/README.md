@@ -37,7 +37,7 @@ Points-based assignments include:
 
 **Pre-class write-ups** will be due by 2:19pm ET (right before class time) each Wednesday. You will include a link to a primary article related to the presenter's course(s) or research area and a few sentences describing what you find interesting in the article. Note that you do **not** need to understand the article in its entirety (especially if it is a published journal or conference paper). This is an assignment to show me you have thought about the presenter's specialized area of CS before class.
 
-**Post-class quizzes** will be available from 3:15pm ET (at the end of class) each Wednesday to the end of the day (11:59pm ET) each Sunday. They are open-note quizzes, and as long as you pay attention during the presenter's talk you should be able to complete them.
+**Post-class quizzes** will be available from 3:00pm ET (near the end of class) each Wednesday to the end of the day (11:59pm ET) each Sunday. They are open-note quizzes, and as long as you pay attention during the presenter's talk you should be able to complete them.
 
 **Homework assignments** will be given occasionally throughout the semester. A Brightspace announcement will be sent when a new homework assignment is available.
 
