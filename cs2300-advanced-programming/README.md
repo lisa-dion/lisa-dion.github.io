@@ -77,8 +77,8 @@ You are required to have access to a computer for this course.
 
 Software: 
 
-* Git is required. It is free to install from here: https://git-scm.com/downloads
-* CLion is the supported IDE for this course. It is free with an educational license (renewable once a year) which you can get here: https://www.jetbrains.com/community/education
+* Git is required. It is free to install from here: [https://git-scm.com/downloads](https://git-scm.com/downloads)
+* CLion is the supported IDE for this course. It is free with an educational license (renewable once a year) which you can get here: [https://www.jetbrains.com/community/education](https://www.jetbrains.com/community/education)
 
 Tools: 
 

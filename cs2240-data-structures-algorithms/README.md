@@ -23,12 +23,12 @@ In this lecture-based course, you will learn the common ways of storing data and
 ## Course Materials and Tools
 
 * Recommended Textbook: Essential Algorithms: A Practical Approach to Computer Algorithms by Rod Stephens. ISBN-13: 978-1-118-61210-1 (note that this is the 1st edition [2013])
-* CLion is the supported IDE for this course. It is free with an educational license (make sure to use your UVM email to sign up): https://www.jetbrains.com/community/education
+* CLion is the supported IDE for this course. It is free with an educational license (make sure to use your UVM email to sign up): [https://www.jetbrains.com/community/education](https://www.jetbrains.com/community/education)
 * Brightspace will be used to post announcements and course materials.
 * Gradescope is where you will submit projects and view grades with feedback.
 * Git (software) and GitHub (website) are for version control. 
-  * You can install git for free from here: https://git-scm.com/downloads 
-  * You can create a free GitHub account at: https://github.com/ 
+  * You can install git for free from here: [https://git-scm.com/downloads](https://git-scm.com/downloads)
+  * You can create a free GitHub account at: [https://github.com/](https://github.com/)
 
 ## Learning Objectives
 
@@ -144,5 +144,7 @@ Details are subject to change at the instructor's discretion.
 | 15 | 12/7 | 12/9 |  | Review for final exam |
 
 \* Quiz date
+
 **Project Deadline**
+
 \*\* In-class activity date
