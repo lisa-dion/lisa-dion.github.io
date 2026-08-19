@@ -140,8 +140,8 @@ Details are subject to change at the instructor's discretion.
 | 11 | 11/9 | **11/11** | 11/13\* | Open Addressing, Practice Problems, Equivalence Relations |
 | 12 | 11/16 | 11/18 | 11/20 | Disjoint Sets, Union, Find, Optimizations |
 | 13 |  |  |  | No class (Thanksgiving Break) |
-| 14 | 11/30\*\* | **12/2** | 12/4 | Intro to Graph Theory, Topological Sort, Shortest Path, Min Spanning Tree, Network Flow |
-| 15 | 12/7 | 12/9 |  | Review for final exam |
+| 14 | 11/30\*\* | **12/2** | 12/4\* | Intro to Graph Theory, Topological Sort, Shortest Path, Min Spanning Tree, Network Flow |
+| 15 | 12/7\*\* | 12/9 |  | Review for final exam |
 
 \* Quiz date
 
