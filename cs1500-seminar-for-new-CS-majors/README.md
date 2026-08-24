@@ -54,7 +54,7 @@ Points-based assignments include:
 | Oct 14 | Jennifer Paykin | CS 3250 Programming Languages |
 | Oct 21 | Byung Lee | CS 3040 Database Systems<br>CS 3240 Algorithm Design & Analysis |
 | Oct 28 | Josh Bongard | CS 3060 Evolutionary Robotics |
-| Nov 4 | Yuanyuan Feng | CS 2880 Inclusive Computing<br>CS 3280 Human-Computer Interaction |
+| Nov 4 | Yuanyuan Feng | CS 3280 Human-Computer Interaction<br>CS 6550 Usable Privacy & Security |
 | Nov 11 | Jason Hibbeler | CS 3050 Software Engineering |
 | Nov 18 | Juniper Lovato | CS Ethics |
 | Nov 25 | No class (Thanksgiving Break) |
