@@ -1,6 +1,6 @@
 # UVM CS 1500: Seminar for New CS Majors
 
-Fall 2026, 1 credit, Wednesdays 2:20 - 3:10pm in Votey 105
+Fall 2026, 1 credit, Wednesdays 2:20 - 3:10pm in Lafayette L400
 
 Instructor: Lisa Dion (Lisa.Dion@uvm.edu)
 
