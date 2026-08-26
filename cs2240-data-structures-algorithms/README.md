@@ -7,7 +7,11 @@
  Instructor Drop-In Hours: TBD in Innovation E314 and virtually or in-person by appt.
 
 
- TA Help Hours: Sundays through Thursdays 5-7pm starting the second Tue of the semester (location TBD).
+ TA Drop-In Hours are 5-7pm starting the second Tuesday of classes: 
+
+ * Sundays, Mondays, and Wednesdays in Innovation E204, except 9/28 in Votey 307
+ * Tuesdays in Kalkin 002
+ * Thursdays in Votey 307, except 10/29 in Votey 209
 
 
  Communication policy: I prefer email communication. Please include “CS 2240” in the email subject line and appropriate details and/or attachments within the body of the email. 
@@ -109,9 +113,9 @@ Quizzes, in-class activities, and the final exam will assess:
 
 In keeping with University policy, any student with a documented disability interested in utilizing ADA accommodations should contact Student Accessibility Services (SAS), the office of Disability Services on campus for students. SAS works with students and faculty in an interactive process to explore reasonable and appropriate accommodations, which are communicated to faculty in an accommodation letter. All students are strongly recommended to discuss with their faculty the accommodations they plan to use in each course. Faculty who receive Letters of Accommodation with Disability Related Flexible accommodations will need to fill out the Disability Related Flexibility Agreement. Any questions from faculty or students on the agreement should be directed to the SAS specialist who is indicated on the letter.
 
-## Religious Holidays
+## Religious Accommodations
 
-Students have the right to practice the religion of their choice. Each semester, students should submit in writing to their instructors as early as possible and at least one week before their documented religious holiday the date(s) of the conflict or absence.
+Students have the right to practice the religion of their choice. Each semester, students must submit in writing to their instructors as early as possible, and at least one week prior to their religious holiday or observance, the date(s) of the conflict or absence. Faculty must permit students who provide appropriate notice of the need to miss a class, assignment, or exam for religious observance with the ability to obtain information covered in class and reschedule or complete an alternative to the applicable assignment or exam date. Absences for religious observance shall be without penalty, however such absences may not fundamentally alter course requirements.
 
 ## Student Athletes
 

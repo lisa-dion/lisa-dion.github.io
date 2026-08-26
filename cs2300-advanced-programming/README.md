@@ -7,7 +7,11 @@
  Instructor Drop-In Hours: TBD in Innovation E314 and virtually or in-person by appt.
 
 
- TA Drop-In Hours: Sundays, Mondays, Tuesdays, Wednesdays, and Thursdays 5-7pm starting the second Tue of the semester (location TBD)
+ TA Drop-In Hours are 5-7pm starting the second Tuesday of classes: 
+
+ * Sundays, Mondays, and Wednesdays in Innovation E204, except 9/28 in Votey 307
+ * Tuesdays in Kalkin 002
+ * Thursdays in Votey 307, except 10/29 in Votey 209
 
 
  Prerequisites: CS 2240 and WIL1
