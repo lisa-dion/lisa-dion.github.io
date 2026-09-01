@@ -106,7 +106,7 @@ You must abide by the Code of Academic Integrity: [https://www.uvm.edu/policies/
 
 Any suspected violation will be reported to the Center for Student Conduct.
 
-Note on Generative AI: you may use AI to enhance your learning. You may not use AI to generate, in whole or part, work that is submitted for grading. 
+Note on Generative AI: you may use AI to enhance your learning. AI may only be used to generate, with proper citations, pieces of code for Open-Ended Projects. All other assignments you submit must not be generated, in whole or part.
 
 ## Important Dates
 
