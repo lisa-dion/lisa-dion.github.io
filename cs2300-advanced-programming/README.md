@@ -4,7 +4,7 @@
 
  Instructor: Lisa Dion (Lisa.Dion@uvm.edu)
 
- Instructor Drop-In Hours: TBD in Innovation E314 and virtually or in-person by appt.
+ Instructor Drop-In Hours: Mondays 2:20-3:10pm, Tuesdays 1-2pm, and Wednesdays 1-2pm in Innovation E314 and virtually or in-person by appt.
 
 
  TA Drop-In Hours are 5-7pm starting the second Tuesday of classes: 
