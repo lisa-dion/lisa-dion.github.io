@@ -4,7 +4,8 @@
 
 2 credits
 
-Prerequisites: Senior Standing and CS 3050
+CS Prerequisites: Senior Standing and CS 3050
+DS Prerequisites: Senior Standing
 
 Meeting time: TBD
 
@@ -34,10 +35,16 @@ This course will give you the tools and experience needed to:
 
 * There is no textbook for this course.
 * We will utilize Brightspace, Gradescope, GitHub, MS Teams, and other online resources as needed.
+* We will utilize UVM-approved generative AI.
 
 ## Grading
 
-This course will use a point-based (instead of percentage-based) grading system. You will earn points by completing assignments throughout the semester. Assignments will be worth different numbers of points based on the difficulty levels and amounts of time expected to complete them. Some points will be team-based, others will be individual. Some points will be earned in class, others will be earned outside of class time.
+This course will use a point-based (instead of percentage-based) grading system. 
+
+* You will earn points by completing assignments throughout the semester. 
+* Assignments will be worth different numbers of points based on the difficulty levels and amounts of time expected to complete them. 
+* Some points will be team-based, others will be individual. 
+* Some points will be earned in class, others will be earned outside of class time.
 
 Your final grade will be based on the total number of points you earn by the end of the semester on this scale:
 
@@ -103,10 +110,10 @@ Note that topics and schedule are subject to change at instructors' discretion.
 | 3 | Development and Production branches | 
 | 4 | Scaffolding and Prioritizing Tasks |
 | 5 | Quality Assurance and Testing |
-| 6 | What would you look for when hiring a new teammate? |
-| 7 | Team Project #1 |
-| 8 | Team Presentations |
-| 9 | Reflect, Debrief, Learn, Improve |
+| 6 | Team Project #1 |
+| 7 | Team Presentations |
+| 8 | Reflect, Debrief, Learn, Improve |
+| 9 | What would you look for when hiring a new teammate? |
 | 10 | Team Project #2 |
 | 11 | Team Presentations |
 | 12 | Reflect, Debrief, Learn, Improve |
