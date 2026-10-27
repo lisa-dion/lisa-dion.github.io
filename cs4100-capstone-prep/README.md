@@ -5,6 +5,7 @@
 2 credits
 
 CS Prerequisites: Senior Standing and CS 3050
+
 DS Prerequisites: Senior Standing
 
 Meeting time: TBD
@@ -63,6 +64,28 @@ Your final grade will be based on the total number of points you earn by the end
 | 633 - 665 | D |
 | 600 - 632 | D- |
 | Under 600 | F |
+
+### Assignments
+
+A tentative list of assignments includes:
+
+- Responsible use of AI:
+	- Individual reflection
+	- Team contract
+- Communication with stakeholders
+	- Multiple individual written assignments
+	- Multiple team-based written assignments
+	- Multiple team-based oral presentations
+- Project Management
+	- Individual written and coding Docker assignments
+	- Team-based GitHub organization assignments
+	- Individual and team-based scaffolding and prioritization assignments
+	- Individual and team-based quality assurance and testing assignments
+- Team Projects
+	- Multiple team-based projects
+	- Multiple team-based presentations
+	- Multiple individual reflections
+
 
 ## Class Policy
 
