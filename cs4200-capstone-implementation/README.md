@@ -30,67 +30,22 @@ In this course, you will get hands-on experience solving a real-world problem in
 * We will utilize Brightspace, Gradescope, GitHub, MS Teams, and other online resources as needed.
 * We will utilize UVM-approved generative AI.
 
-## Grading
+## Ungrading
 
-This course will use a point-based (instead of percentage-based) grading system. 
+This course does not use a typical grading scheme. Instead of earning percentages or points towards your final grade, you will be observed throughout the semester and your final grade will be based on:
 
-* You will earn points by completing assignments throughout the semester. 
-* Assignments will be worth different numbers of points based on the difficulty levels and amounts of time expected to complete them. 
-* Some points will be team-based, others will be individual. 
-* Some points will be earned in class, others will be earned outside of class time.
+- Evidence of sustained contribution to your project
+- Evidence of project management skills (e.g. scaffolding of tasks, performing your team role)
+- Evidence of good communication (with your teammates, with your community partner, with instructors and faculty mentors, and as written documentation in your project repository)
 
-Your final grade will be based on the total number of points you earn by the end of the semester on this scale:
+The modes of observation of this evidence will include:
 
-| Point Range | Corresponding Letter Grade |
-| ----------- | -------------------------- |
-| At or over 1000 | A+ |
-| 950 - 999 | A |
-| 900 - 949 | A- |
-| 866 - 899 | B+ |
-| 833 - 865 | B |
-| 800 - 832 | B- |
-| 766 - 799 | C+ |
-| 733 - 765 | C |
-| 700 - 732 | C- |
-| 666 - 699 | D+ |
-| 633 - 665 | D |
-| 600 - 632 | D- |
-| Under 600 | F |
-
-### Assignments
-
-Points will be earned throughout the semester based on these expectations:
-
-- Regular SCRUM meetings in your team
-- Regular meetings with your community partner
-- Regular meetings with your faculty mentor
-- Regular changes to your project repository
-- Regular submission of team peer evaluations
-- A final project repository branch that is well-documented
-- A final presentation
-
-### Peer Evaluations (Adapted from SEED)
-
-Due to the group work nature of this course, it is imperative that everyone contributes evenly to the project. One of the methods for assessing your personal contribution is by Peer Evaluations. These evaluations are an opportunity to review the contribution and performance of each of your teammates and yourself. You will regularly receive Peer Evaluation Scores that represent your efforts relative to your peers.
- 
-The Peer Evaluation will ask two questions about “Contribution” and “Inclusivity”. 
-
-* Contribution addresses the quality, quantity, and timeliness of your participation in the project. 
-* Inclusivity addresses how well you cultivated an inclusive and respectful environment, in which every team member’s contributions are welcome. 
-
-Your final grade each semester may be adjusted up or down based on these evaluations. Adjustments are made at the discretion of the instructor based on your evaluations. Your grade adjustment will be given after all assignments are graded and posted in Brightspace.
- 
-| Peer Evaluation Score | Possible Grade Adjustment |
-| --------------------- | ------------------------- |
-| <0.5 | Likely failing course |
-| 0.5 – 0.75 | 30% to 15% reduction of final grade |
-| 0.76 – 0.89 | 14% to 3% reduction of final grade |
-| 0.9 – 1.09 | No change in final grade |
-| 1.1 – 1.5 | 5% to 10% increase in final grade |
- 
-Example: A Contribution Score of 0.75 reduces your final grade by 15%. An Inclusivity Score of 1.1 increases your final grade by 5%. Your final grade adjustment would be -10%.
- 
-It is critical you are honest in these evaluations of both your peers and yourself. Any misrepresentation, false statements, or unjustified evaluations to improve your own personal grade or change a teammate’s grade will be considered a violation of UVM’s Academic Integrity policy.
+- Logging of regular team SCRUM meetings
+- Evaluation from your community partner multiple times during the semester
+- Meetings with instructors as requested and with faculty advisors as needed
+- Contributions to the project repository
+- Team peer evaluations
+- Final project presentation
 
 ### Community Partner Evaluations (Adapted from SEED)
 
