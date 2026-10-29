@@ -47,11 +47,13 @@ The modes of observation of this evidence will include:
 - Team peer evaluations
 - Final project presentation
 
-### Community Partner Evaluations (Adapted from SEED)
+### Community Partner Evaluations
 
 As students, you are typically only held accountable to the instructor and their course requirements. In this course you are also being held accountable to your community partner and their expectations. At the end of the semester the community partner will be asked to evaluate their team based on their perceptions of the quality, effectiveness, effort, and methods used to find a solution to their problem. Keep this in mind as you interact with your community partner.
 
-## Self-Regulation (Adapted from SEED)
+Note that, at the same time, the community partner will not be the sole evaluator (see Ungrading section above).
+
+## Self-Regulation
 
 Because your community partner has high expectations, we as instructors have high expectations, and you have high expectations for yourself, this semester may be more stressful than last semester. The best way to manage stress is to know what you can control and then focus on controlling those things. You can control what you work on, when you work on it, how you present yourself to your team members, clients, and instructors, and what you do to recharge outside of coursework. An appropriate amount of stress stimulates high performance, but an excessively high amount of stress is damaging. If you find yourself under too much stress, remember that you can get support from your team members, instructors, teaching assistants, faculty mentor, and community partner. You need to do the work, but we want you to succeed, and we are here to help you learn and succeed.
 
