@@ -6,8 +6,6 @@
 
 CS Prerequisites: Senior Standing and CS 3050
 
-DS Prerequisites: Senior Standing
-
 Meeting time: TBD
 
 ## Instructors
