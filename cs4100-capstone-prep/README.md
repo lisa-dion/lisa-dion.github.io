@@ -22,7 +22,7 @@ Kendall Fortney
 
 ## Course Description
 
-This course will give you the tools and experience needed to:
+Gives you the tools and experience needed to:
 
 * Manage a software project
 * Communicate with stakeholders professionally
