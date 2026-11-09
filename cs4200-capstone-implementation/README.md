@@ -22,7 +22,7 @@ Lisa Dion
 
 ## Course Description
 
-In this course, you will get hands-on experience solving a real-world problem in a team with a community partner. You will participate in iterative agile development throughout the semester, culminating with a team presentation and the handing off of the project to your community partner.
+Get hands-on experience solving a real-world problem in a team with a community partner. Participate in iterative agile development throughout the semester, culminating with a team presentation and the handing off of the project to the community partner.
 
 ## Course Resources
 
@@ -46,6 +46,8 @@ The modes of observation of this evidence will include:
 - Contributions to the project repository
 - Team peer evaluations
 - Final project presentation
+
+Your final grade will be a letter grade: A, B, C, D, or F. There will be no plusses or minuses except under extenuating circumstances.
 
 ### Community Partner Evaluations
 
